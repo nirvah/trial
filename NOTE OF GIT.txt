@@ -1,0 +1,34 @@
+create a folder
+
+
+git config --global user.name
+git config --global user.email
+
+
+(basic unix command)
+go to the folder and right ckick and open git bash of that folder
+
+open the github
+create a repo add the description and enter
+
+and copy the[ git remote add origin https://github.com/AbhayGPatil/Trial.git]
+
+git remote -v (you know the exact place )
+
+
+git add . ( will add all the docs )
+
+git status ( check the the status "NO commits yet)
+*since we havent commited anything yet we need to commit it first)
+
+to comiit write the below code
+
+git commit -m" ANY COMMENTY IF REQUIRED"
+
+*now tyhe file has been commityed
+
+to check again type
+git status 
+(on branch master 
+nothing to commit , working tree clean
+ NOTE ALWAYS CREATE THE FOLDER IN THE SAME DRIVE THAT OF a drive where Git is installed
